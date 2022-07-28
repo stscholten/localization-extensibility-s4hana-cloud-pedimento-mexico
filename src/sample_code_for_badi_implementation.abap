@@ -2,6 +2,7 @@
 * This code is part of the blog post Localization Toolkit for SAP S/4HANA Cloud: Provide the Pedimento Number (Mexico) on e-Document using Custom Logic
 * blog post @ https://blogs.sap.com/2020/09/07/provide-the-pedi…ing-custom-logic/
 * published @ Localization Toolkit for SAP S/4HANA Cloud community - https://community.sap.com/topics/localization-toolkit-s4hana-cloud
+* new edition
 
 DATA: lv_billingdocumenttype TYPE i_billingdocument-billingdocumenttype.
 
