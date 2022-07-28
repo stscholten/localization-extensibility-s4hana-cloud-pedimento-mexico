@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/localization-toolkit-s4hana-cloud-pedimento-number-for-mexico)](https://api.reuse.software/info/github.com/SAP-samples/localization-toolkit-s4hana-cloud-pedimento-number-for-mexico)
 
-## Localization Toolkit for SAP S/4HANA Cloud: Provide the Pedimento Number (Mexico) on e-Document using Custom Logic
+## Localization Extensibility for SAP S/4HANA Cloud: Provide the Pedimento Number (Mexico) on e-Document using Custom Logic
 This repository contains the sample code for the [Provide the Pedimento Number (Mexico) on e-Document using Custom Logic](https://blogs.sap.com/2020/09/15/provide-the-pedimento-number-mexico-on-e-document-using-custom-logic/) blog post.
 
 *This code is only a part of the blog post, so please follow the blog post before attempting to use this code since it may also require other extensibility activities.*
